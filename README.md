@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `30m` sample updated in sync
 
-> **Sample on GitHub** · `US30_30m.csv` (1,853 rows, `2026-07-07` -> `2026-09-02`, 140.04 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us30)** — **205,681** `30m` rows (full `1m`: 6,024,308), **11 timeframes**, `2009-03-11` -> `2026-09-02`.
+> **Sample on GitHub** · `US30_30m.csv` (1,848 rows, `2026-07-07` -> `2026-09-02`, 139.61 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us30)** — **205,681** `30m` rows (full `1m`: 5,980,529), **11 timeframes**, `2009-03-11` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Dow Jones 30 · Index | Dow Jones 30 · Index |
 | Timeframes | `30m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 30m rows | 1,853 | **205,681** |
-| Size | 140.04 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
+| 30m rows | 1,848 | **205,681** |
+| Size | 139.61 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-03-11` -> `2026-09-02` |
 | File | `US30_30m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
 | Coverage report | — | [US30 coverage](https://getdata.finance/coverage/us30) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`US30_30m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 53013.56 | 53023.06 | 52937.56 | 52961.06 | 19697 |
-| 2026-07-07T19:30:00+00:00 | 52961.06 | 53078.56 | 52941.06 | 53022.06 | 18342 |
-| 2026-07-07T20:00:00+00:00 | 53022.06 | 53025.21 | 52965.21 | 52985.71 | 5483 |
-| 2026-07-07T20:30:00+00:00 | 52985.71 | 53015.21 | 52979.21 | 53014.96 | 1423 |
-| 2026-07-07T22:00:00+00:00 | 53014.96 | 53017.21 | 52944.96 | 53001.71 | 4544 |
+| 2026-07-07T22:30:00+00:00 | 53001.71 | 53012.21 | 52974.21 | 52993.71 | 2362 |
+| 2026-07-07T23:00:00+00:00 | 52993.71 | 53020.71 | 52975.21 | 53004.71 | 1941 |
+| 2026-07-07T23:30:00+00:00 | 53004.71 | 53009.71 | 52955.21 | 52959.71 | 2695 |
+| 2026-07-08T00:00:00+00:00 | 52959.71 | 52980.71 | 52918.21 | 52960.21 | 9869 |
+| 2026-07-08T00:30:00+00:00 | 52960.21 | 53020.21 | 52950.21 | 53019.71 | 4781 |
 
 **Last rows**
 
